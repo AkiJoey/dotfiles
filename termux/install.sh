@@ -13,10 +13,10 @@ sed -i 's/plugins=(git/& zsh-autosuggestions zsh-syntax-highlighting/' $HOME/.zs
 
 chsh -s zsh
 
-# wget -P $HOME/.termux 
-# wget -P $HOME/.termux 
+wget -P $HOME/.termux https://github.com/AkiJoey/TerminalConfig/raw/master/termux/.termux/colors.properties
+wget -P $HOME/.termux https://github.com/AkiJoey/TerminalConfig/raw/master/termux/.termux/font.ttf
 
-# wget -P $PREFIX/etc/motd -N
+wget -P $PREFIX/etc/motd -N https://github.com/AkiJoey/TerminalConfig/raw/master/linux/motd
 
 apt install -y screenfetch
 echo 'screenfetch' >> $HOME/.zshrc
