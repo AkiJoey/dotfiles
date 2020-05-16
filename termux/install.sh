@@ -16,7 +16,7 @@ chsh -s zsh
 wget -P $HOME/.termux https://github.com/AkiJoey/TerminalConfig/raw/master/termux/.termux/colors.properties
 wget -P $HOME/.termux https://github.com/AkiJoey/TerminalConfig/raw/master/termux/.termux/font.ttf
 
-wget -P $PREFIX/etc/motd -N https://github.com/AkiJoey/TerminalConfig/raw/master/linux/motd
+wget -P $PREFIX/etc -N https://github.com/AkiJoey/TerminalConfig/raw/master/linux/motd
 
 apt install -y screenfetch
 echo 'screenfetch' >> $HOME/.zshrc
