@@ -10,7 +10,7 @@
 ;; line number
 (setq line-number-mode t)
 (setq column-number-mode t)
-(setq linum-format "%d  ")
+(setq linum-format "%4d  ")
 (global-linum-mode t)
 
 ;; line feed

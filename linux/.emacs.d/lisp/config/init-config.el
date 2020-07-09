@@ -3,6 +3,7 @@
 (require 'init-theme)
 
 ;; init plugin
+(require 'init-sr-speedbar)
 
 ;; provide
 (provide 'init-config)
