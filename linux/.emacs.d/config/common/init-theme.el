@@ -1,4 +1,4 @@
-;; theme load path
+;; load theme path
 (add-to-list 'custom-theme-load-path "~/.emacs.d/theme")
 
 ;; load theme
