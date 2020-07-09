@@ -10,8 +10,8 @@
     (let ((default-directory (file-name-as-directory dir)))
         (add-to-list 'load-path dir)
         (normal-top-level-add-subdirs-to-load-path)))
-(add-subdirs-to-load-path "~/.emacs.d/lisp/config")
-(add-subdirs-to-load-path "~/.emacs.d/lisp/extension")
+(add-subdirs-to-load-path "~/.emacs.d/config")
+(add-subdirs-to-load-path "~/.emacs.d/extension")
 
 ;; require config
 (require 'init-config)

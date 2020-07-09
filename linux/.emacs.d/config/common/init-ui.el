@@ -13,7 +13,7 @@
 (setq linum-format "%4d  ")
 (global-linum-mode t)
 
-;; line feed
+;; line feed
 (toggle-truncate-lines t)
 
 ;; inhibit motd
