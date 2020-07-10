@@ -4,6 +4,7 @@
 
 ;; init plugin
 (require 'init-sr-speedbar)
+(require 'init-powerline)
 (require 'init-rich-minority)
 (require 'init-smart-mode-line)
 
