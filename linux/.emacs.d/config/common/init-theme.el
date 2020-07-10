@@ -4,8 +4,9 @@
 ;; load theme
 (load-theme 'atom-one-dark t)
 
-;; mode line
-(setq sml/theme 'atom-one-dark)
+;; sml theme
+;;(setq sml/theme 'atom-one-dark)
+(setq sml/theme 'powerline)
 
 ;; provide
 (provide 'init-theme)
