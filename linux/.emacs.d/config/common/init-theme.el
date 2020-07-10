@@ -6,7 +6,7 @@
 
 ;; sml theme
 ;;(setq sml/theme 'atom-one-dark)
-(setq sml/theme 'powerline)
+;;(setq sml/theme 'powerline)
 
 ;; provide
 (provide 'init-theme)
