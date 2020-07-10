@@ -16,9 +16,6 @@
 ;; line feed
 (toggle-truncate-lines t)
 
-;; display date
-(display-time-mode t)
-
 ;; inhibit motd
 ;;(setq inhibit-splash-screen t)
 ;;(setq inhibit-startup-message t)
