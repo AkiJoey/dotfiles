@@ -6,11 +6,11 @@ Various terminal config and shell script.
 
 Windows powershell config and install script.
 
-## Installation
+### Installation
 
 `$ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://github.com/AkiJoey/Terminal/windows/raw/master/install.ps1')"`
 
-## Features
+### Features
 
 * `$PROFILE` - Private powershell config.
 + `Module` - Private module `ScreenFetch`.
