@@ -4,7 +4,8 @@
 
 ;; init plugin
 (require 'init-sr-speedbar)
-(require 'init-spaceline)
+(require 'init-smart-mode-line)
+(require 'init-mini-modeline)
 (require 'init-magit)
 
 ;; provide

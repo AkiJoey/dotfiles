@@ -2,7 +2,7 @@
 (require 'sr-speedbar)
 
 ;; speedbar width
-;;(setq sr-speedbar-width 20)
+(setq sr-speedbar-width 20)
 
 ;; left side
 (setq sr-speedbar-right-side nil)
