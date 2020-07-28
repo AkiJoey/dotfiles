@@ -43,3 +43,7 @@ Various config and install script.
 * `motd` - Private motd.
 + `.emacs.d` - Private emacs config.
 * `.tmux.conf` - Private tmux config.
+
+## License
+
+[MIT](https://github.com/akijoey/dotfiles/blob/master/LICENSE) © AkiJoey
