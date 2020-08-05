@@ -8,7 +8,7 @@ Windows powershell config and install script.
 
 ### Installation
 
-`$ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://github.com/akiJoey/dotfiles/windows/raw/master/install.ps1')"`
+`$ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://github.com/akijoey/dotfiles/windows/raw/master/install.ps1')"`
 
 ### Features
 
@@ -22,7 +22,7 @@ Termux config and install script.
 
 ### Installation
 
-`$ sh -c "$(curl -fsSL https://github.com/akiJoey/dotfiles/termux/raw/master/install.sh)"`
+`$ sh -c "$(curl -fsSL https://github.com/akijoey/dotfiles/termux/raw/master/install.sh)"`
 
 ### Features
 
@@ -36,7 +36,7 @@ Various config and install script.
 
 ### Installation
 
-`$ sh -c "$(curl -fsSL https://github.com/akiJoey/dotfiles/linux/raw/master/install.sh)"`
+`$ sh -c "$(curl -fsSL https://github.com/akijoey/dotfiles/linux/raw/master/install.sh)"`
 
 ## Features
 
