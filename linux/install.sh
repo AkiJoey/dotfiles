@@ -19,7 +19,7 @@ sed -i 's/plugins=(git/& zsh-autosuggestions zsh-syntax-highlighting/' $HOME/.zs
 chsh -s zsh
 
 apt install -y emacs
-svn export https://github.com/AkiJoey/dotfiles/tree/master/linux/.emacs.d $HOME/.emacs.d
+svn export https://github.com/akijoey/dotfiles/tree/master/linux/.emacs.d $HOME/.emacs.d
 
 apt install -y openssh-server
 echo root:000822 | chpasswd
@@ -35,7 +35,7 @@ apt install -y screenfetch
 echo 'screenfetch' >> $HOME/.zshrc
 
 curl -sL https://deb.nodesource.com/setup_12.x | bash -
-apt install -y gcc g++ gdb cmake python3 ruby-full default-jdk nodejs
+apt install -y gcc g++ gdb cmake python3 python3-pip ruby-full default-jdk nodejs
 
 echo 'Install successed.'
 
