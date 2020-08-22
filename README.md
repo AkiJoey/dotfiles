@@ -38,7 +38,7 @@ Various config and install script.
 
 `$ sh -c "$(curl -fsSL https://github.com/akijoey/dotfiles/linux/raw/master/install.sh)"`
 
-## Features
+### Features
 
 * `motd` - Private motd.
 + `.emacs.d` - Private emacs config.
