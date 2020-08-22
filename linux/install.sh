@@ -36,6 +36,7 @@ echo 'screenfetch' >> $HOME/.zshrc
 
 curl -sL https://deb.nodesource.com/setup_12.x | bash -
 apt install -y gcc g++ gdb cmake python3 python3-pip ruby-full default-jdk nodejs
+echo 'export PATH=./node_modules/.bin:$PATH' >> $HOME/.zshrc
 
 echo 'Install successed.'
 
