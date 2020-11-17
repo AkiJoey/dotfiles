@@ -33,6 +33,7 @@ wget -P /etc -N https://github.com/akijoey/dotfiles/raw/master/linux/motd
 
 apt install -y screenfetch
 echo 'screenfetch' >> $HOME/.zshrc
+echo 'export TERM=xterm-256color' >> $HOME/.zshrc
 
 curl -sL https://deb.nodesource.com/setup_12.x | bash -
 apt install -y gcc g++ gdb cmake python3 python3-pip ruby-full default-jdk nodejs

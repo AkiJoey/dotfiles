@@ -1,6 +1,6 @@
 # AkiJoey's dotfiles
 
-Private terminal config and shell script.
+Personal terminal config and shell script.
 
 ## Windows
 
@@ -12,9 +12,10 @@ Windows powershell config and install script.
 
 ### Features
 
-* `$PROFILE` - Private powershell config.
-+ `Module` - Private module `ScreenFetch`.
-* `Misaka` - Private oh-my-posh theme.
+* `$PROFILE` - Personal powershell config.
++ `Module` - Personal module `ScreenFetch`.
+* `Misaka` - Personal oh-my-posh theme.
+* `putty.reg` - Personal putty config.
 
 ## Termux
 
@@ -26,9 +27,9 @@ Termux config and install script.
 
 ### Features
 
-- `.termux` - Private termux config.
-  * `colors.properties` - Private color `Campbell Dark`.
-  * `font.ttf` - Private font `Cascadia Code`.
+- `.termux` - Personal termux config.
+  * `colors.properties` - Personal color `Campbell Dark`.
+  * `font.ttf` - Personal font `Cascadia Code`.
 
 ## Linux(Debian)
 
@@ -40,9 +41,8 @@ Various config and install script.
 
 ### Features
 
-* `motd` - Private motd.
-+ `.emacs.d` - Private emacs config.
-* `.tmux.conf` - Private tmux config.
++ `.emacs.d` - Personal emacs config.
+* `.tmux.conf` - Personal tmux config.
 
 ## License
 
