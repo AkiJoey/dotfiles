@@ -13,7 +13,7 @@ Windows powershell config and install script.
 ### Features
 
 * `$PROFILE` - Personal powershell config.
-+ `Module` - Personal module `ScreenFetch`.
+* `Module` - Personal module `ScreenFetch`.
 * `Misaka` - Personal oh-my-posh theme.
 * `putty.reg` - Personal putty config.
 
@@ -41,7 +41,7 @@ Various config and install script.
 
 ### Features
 
-+ `.emacs.d` - Personal emacs config.
+* `.emacs.d` - Personal emacs config.
 * `.tmux.conf` - Personal tmux config.
 
 ## License
